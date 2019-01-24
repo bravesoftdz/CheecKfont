@@ -38,8 +38,8 @@ freely, subject to the following restrictions:
 | File | Contents | 
 | --- | --- |
 | .gitignore | Git ignores the files in this file |
-| ToolLib.pas | ToolLib Unit |
-| Main.pas | The main View of the Programme |
+| ToolLib.pas | Toollib unit |
+| Main.pas | The main view of the programme |
 | CheeckFont.dpk | The compiler project file |
 | CheeckFont.dproj | The MSBUILD project file |
 | README.md | The readme for this project |
