@@ -5,17 +5,16 @@ Tools for specific task
 
 # Features  
 
-- Opening Text Log Files
-- Delete all temporary files
-- Load all dynamics dll in a directory and check the dependency
-- Dynamically load and call a function in a BPL package
+- Installing a font from Delphi
+- showing all installed fonts
+
 
 
 
 
 
 # Licence
-Copyright (C) 2018-2019, walwalwalides (walwalwalides@gmail.com)          
+Copyright (C) 2019-2020, walwalwalides (walwalwalides@gmail.com)          
                                                                          
 This software is provided 'as-is', without any express or implied          
 warranty. In no event will the authors be held liable for any damages      
