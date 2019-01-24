@@ -31,3 +31,15 @@ freely, subject to the following restrictions:
 2. Altered source versions must be plainly marked as such, and must not be 
    misrepresented as being the original software.                          
 3. This notice may not be removed or altered from any source distribution.
+
+
+## Files
+
+| File | Contents | 
+| --- | --- |
+| .gitignore | Git ignores the files in this file |
+| ToolLib.pas | ToolLib Unit |
+| Main.pas | The main View of the Programme |
+| CheeckFont.dpk | The compiler project file |
+| CheeckFont.dproj | The MSBUILD project file |
+| README.md | The readme for this project |
